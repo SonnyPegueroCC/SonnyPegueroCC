@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sonny, an <a href="https://linkedin.com/in/Sonny Peguero">IT Student</a>☺</h1>
+<h1>Hi, I'm Sonny, an <a href="https://linkedin.com/in/SonnyPeguero">IT Student</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
