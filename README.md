@@ -1,4 +1,4 @@
-<I'm> I'm Sonny, an <a href="https://linkedin.com/in/SonnyPeguero">IT Professional</a>☺</h1>
+I'm Sonny, an <a href="https://linkedin.com/in/SonnyPeguero">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
