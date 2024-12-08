@@ -2,9 +2,9 @@ I'm Sonny, an <a href="https://linkedin.com/in/SonnyPeguero">IT Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
- - <b>osTicket (Help Desk Ticketing System)</b>- [osTicket: Prerequisites and Installation](https://github.com/SonnyPegueroCC/osticket-prereqs)
+ - <b>osTicket (Help Desk Ticketing System)</b> - [osTicket: Prerequisites and Installation](https://github.com/SonnyPegueroCC/osticket-prereqs)
 
- - <b>Microsoft Azure</b>- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SonnyPegueroCC/azure-network-protocols)
+ - <b>Microsoft Azure</b> - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SonnyPegueroCC/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
