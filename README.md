@@ -5,3 +5,5 @@
  - <b>osTicket (Help Desk Ticketing System)</b> - [osTicket: Prerequisites and Installation](https://github.com/SonnyPegueroCC/osticket-prereqs)
 
  - <b>Microsoft Azure</b> - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SonnyPegueroCC/azure-network-protocols)
+
+ - <b> Virtual Private Network</b> - https://github.com/SonnyPegueroCC/virtual-private-network
