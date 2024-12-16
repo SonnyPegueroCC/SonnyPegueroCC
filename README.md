@@ -6,4 +6,4 @@
 
  - <b>Microsoft Azure</b> - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SonnyPegueroCC/azure-network-protocols)
 
- - <b> Virtual Private Network</b> - https://github.com/SonnyPegueroCC/virtual-private-network
+ - <b> Virtual Private Network</b> - [Virtual Private Network](https://github.com/SonnyPegueroCC/virtual-private-network)
